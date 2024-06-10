@@ -1,7 +1,8 @@
-## Hi there 👋
+## oi,bom dia cachorro
+## Boas vindas ao meu perfil,Meu nome é Evilyn Cristina,Estou estudando na Alura,Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+00001112279702sp@al.educacao.gov.br
 
-<!--
-**Evc2006/Evc2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
